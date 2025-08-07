@@ -4,4 +4,5 @@ class B
   int b=5;
   int c=a+b;
   System.out.println("Sum:"+c);
+    Hi
 }
